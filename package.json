@@ -27,8 +27,7 @@
   "scripts": {
     "test": "grunt test"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.0",
     "grunt-contrib-jshint": "~0.7.2",
@@ -36,9 +35,16 @@
     "grunt-contrib-nodeunit": "~0.2.2"
   },
   "peerDependencies": {
-    "grunt": "~0.4.0"
+    "grunt": ">=0.4.0"
   },
   "keywords": [
-    "grunt", "gruntplugin", "dump", "assets", "css", "js", "assetic", "symfony2"
+    "grunt",
+    "gruntplugin",
+    "dump",
+    "assets",
+    "css",
+    "js",
+    "assetic",
+    "symfony2"
   ]
 }
